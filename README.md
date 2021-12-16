@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a researcher in Machine Learning. Please check [my personal webpage](https://marharyta-aleksandrova.github.io/) to learn about my research, teaching, and other experiences.
+
 <!--
 **marharyta-aleksandrova/marharyta-aleksandrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
